@@ -1,0 +1,81 @@
+body{
+    background-color:  #97d2e4;
+  
+}
+
+img{
+    width: 30px;
+    height: 30px;
+}
+
+footer{
+  background-color: #343a40;
+  color: white; 
+  position: absolute;
+  bottom: 0;
+  width: 100% !important;
+}
+
+#footer2{
+  background-color: #343a40;
+  color: white; 
+  position: absolute;
+  bottom: 0;
+  width: 100% !important;
+}
+
+h4, h5, h3, h2, h1{
+  text-align: center;
+}
+
+#boton{
+  background-color: #007bff;
+  color: white;
+  padding: .375rem .75 rem;
+  font-size: 1rem;
+  border-color: #007bff;
+  border: 1px solid transparent;
+  cursor: pointer;
+  border-radius: .25rem;
+  font-weight: 400;
+  margin-top: 20px;
+}
+
+#botonback{
+  background-color: #007bff;
+  color: white;
+  padding: .375rem .75 rem;
+  font-size: 1rem;
+  border-color: #007bff;
+  border: 1px solid transparent;
+  cursor: pointer;
+  border-radius: .25rem;
+  font-weight: 400;
+  margin-top: 0px;
+}
+
+table{
+  border-collapse: collapse;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  width: 70%;
+}
+
+table,th,td {
+  border: 1px solid ;
+  color:#004a87;
+  background-color: white;
+  text-align: center;
+}
+
+#destroyed {
+  text-align: center;
+  font-size: 30px;
+  margin-top: 10px;
+  padding-top: 10px;
+  color: black;
+  padding: 20px;
+  margin: 20px;
+} 
